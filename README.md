@@ -1,3 +1,12 @@
+
+This project dives deep into the realm of data analysis using SQL and Power BI to uncover important human resource insights that can greatly benefit the company.
+Data Cleaning & Analysis:
+This was done on SQL server 2022 involving
+• Data loading into SQL server & inspection
+• Data cleaning and analysis
+• Presenting the data in Power BI
+
+
 # HR-Analysis-Report-
 
 create database hr
